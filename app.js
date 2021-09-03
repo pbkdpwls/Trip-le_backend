@@ -44,7 +44,7 @@ mongoClient.connect(url, (err, db) => {
                 service: "gmail",
                 auth: {
                     user: sendEmail,
-                    pass: "bv9365fr"
+                    pass: "password"
                 },
                 tls: {
                     rejectUnauthorized: false
