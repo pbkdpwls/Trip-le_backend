@@ -22,8 +22,16 @@ https://www.youtube.com/watch?v=DnacORWsac0
 
 ## 사용한 기술 스택
 VS code / JavaScript
+
 Mongo DB
-AWS
+
+AWS S3
+
+AWS EC2 Linux
+
+AWS Rekognition - 인물 분류
+
+AWS Rekognition - 감정 인식
 
 ## 작품 구성도
 <img width="952" alt="스크린샷 2022-10-21 오전 1 06 02" src="https://user-images.githubusercontent.com/62551459/197001247-83d62dc1-e424-4b40-bc36-b3c2121cf565.png">
