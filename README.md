@@ -26,7 +26,8 @@ Mongo DB
 AWS
 
 ## 작품 구성도
-<img http="src="https://user-images.githubusercontent.com/62551459/197000910-abb4f7d5-f0c4-4964-9880-640aaea271a4.png"/>
+<img width="952" alt="스크린샷 2022-10-21 오전 1 06 02" src="https://user-images.githubusercontent.com/62551459/197001247-83d62dc1-e424-4b40-bc36-b3c2121cf565.png">
+
 
 ## 개발기간
 2021.03.02 ~ 2021.11.02
