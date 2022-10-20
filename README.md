@@ -25,5 +25,8 @@ VS code / JavaScript
 Mongo DB
 AWS
 
+## 작품 구성도
+<img http="src="https://user-images.githubusercontent.com/62551459/197000910-abb4f7d5-f0c4-4964-9880-640aaea271a4.png"/>
+
 ## 개발기간
 2021.03.02 ~ 2021.11.02
