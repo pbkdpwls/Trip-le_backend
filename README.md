@@ -21,7 +21,9 @@ https://www.youtube.com/watch?v=DnacORWsac0
 아이들의 사진을 하나하나 찾아보지 않고 바로 볼 수 있기에 사진을 공유하는 과정을 더 편하게 만들고 사진을 분류하는 사용자의 시간을 절감합니다. 또한, 마스크를 쓰는 상황이 지속되는 만큼 마스크 쓴 얼굴인식에 대해서 파악이 가능하도록 고려해본다.
 
 ## 사용한 기술 스택
-VS code / JavaScript
+VS code 
+
+Node.js (JavaScript)
 
 Mongo DB
 
